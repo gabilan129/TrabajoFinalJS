@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h1{
+    font-size: 150px;
+
+}
+
+p{
+    font-size: 30px;
+}
+
+
+img{
+    width: 100px;
+
+
+}
+
+.darkMode{
+    background-color: black;
+color: rgb(233, 38, 38);}
+
+
+.img_modal {
+    width: 500px;
+    height: 500px;
+    
+}
+
+.p__modal {
+    font-size: 20px;
+}
+
+.corazonTamañano {
+    font-size: 100px;
+}
